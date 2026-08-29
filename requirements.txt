@@ -1,3 +1,7 @@
 streamlit
 joblib
 sckit learn
+pickle
+pandas
+numpy
+matplotlib.pyplot
